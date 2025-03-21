@@ -16,8 +16,6 @@
    jupyter notebook tutorial.ipynb
    ```
 
-   Aquí podrás ver cómo interactuar con LangChain y el modelo LLM a través de los prompts definidos en el servidor. Asegurate de agregar tu API KEY para la ejecucion.
-
 ### 🔥Requisitos
 
 - **Python**.
