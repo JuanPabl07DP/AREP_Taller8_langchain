@@ -1,5 +1,7 @@
 # 🐭 **Taller LLM - Tutorial LangChain LLM Chain**
 
+El objetivo de esta primera parte es implementar un modelo LLM siguiendo el paso a paso del tutorial LangChain LLM Chain (https://python.langchain.com/docs/tutorials/llm_chain/).
+
 ### ♨️ Instalación
 
 1. **Clonar el repositorio** desde GitHub:
@@ -15,6 +17,8 @@
    ```bash
    jupyter notebook tutorial.ipynb
    ```
+
+   NOTA: No olvidar colocar la APIKey generada por OpenAI.
 
 ### 🔥Requisitos
 
