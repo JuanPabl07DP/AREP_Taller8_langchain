@@ -4,7 +4,7 @@
 
 1. **Clonar el repositorio** desde GitHub:
    ```bash
-   git clone [https://github.com/SebSanUwU/TallerLangChainTutorial](https://github.com/JuanPabl07DP/AREP_Taller8_langchain.git)
+   git clone (https://github.com/JuanPabl07DP/AREP_Taller8_langchain.git)
    ```
 2. **Navegar al directorio del proyecto**:
    ```bash
